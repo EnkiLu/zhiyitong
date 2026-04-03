@@ -58,17 +58,9 @@
 <!-- Bilibili 示例（推荐国内用户） -->
 
 <div align="center">
-  <iframe
-    src="//player.bilibili.com/player.html?bvid=BV1Xg93BXEwr&page=1"
-    width="800"
-    height="450"
-    scrolling="no"
-    border="0"
-    frameborder="no"
-    framespacing="0"
-    allowfullscreen="true">
-  </iframe>
-  <p><em>智医通功能演示（请将视频上传到Bilibili后替换上面的bvid参数）</em></p>
+  <video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://www.bilibili.com/video/BV1Xg93BXEwr?t=37.9" type="video/mp4">
+	</videos>
 </div>
 
 
