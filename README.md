@@ -54,13 +54,9 @@
 - **PDF 解析**：支持解析医疗文档，丰富知识库内容
 
 ## 🎬 功能演示
-<!-- 请将下面的 iframe 代码替换为你上传视频后的实际嵌入代码 -->
-<!-- Bilibili 示例（推荐国内用户） -->
-
-<div align="center">
-  <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://www.bilibili.com/video/BV1Xg93BXEwr?t=37.9" type="video/mp4">
-	</videos>
+ [演示视频](https://www.bilibili.com/video/BV1Xg93BXEwr/)
+<div>
+	<iframe src="//player.bilibili.com/player.html?bvid=BV1Xg93BXEwr&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 
