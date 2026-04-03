@@ -55,7 +55,9 @@
 
 ## 🎬 功能演示
  [演示视频](https://www.bilibili.com/video/BV1Xg93BXEwr/)
- <iframe src="//player.bilibili.com/player.html?bvid=BV1Xg93BXEwr&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ <img width="1901" height="959" alt="image" src="https://github.com/user-attachments/assets/4d3a9753-3e04-4313-9a47-33ffe9c9ff0d" />
+
+
 
 ## 技术栈
 
